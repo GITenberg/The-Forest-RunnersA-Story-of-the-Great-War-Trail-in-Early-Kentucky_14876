@@ -1,0 +1,33 @@
+_repo: The-Forest-RunnersA-Story-of-the-Great-War-Trail-in-Early-Kentucky_14876
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, J. A. (Joseph Alexander)
+    - Altsheler, Joseph Alexander
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Forest Runners: A Story of the Great War Trail in Early Kentucky'
+url: http://www.gutenberg.org/ebooks/14876
